@@ -3,4 +3,4 @@
 <img src='dados.png'>
 
 [![]()]()
-[![dados.mp4](miniatura)](video "dados.mp4")
+[![Apresentação](dados.mp4)](video "dados.mp4")
