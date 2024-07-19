@@ -1,7 +1,8 @@
-# dados
+# Dados 🎲
 
-<img src='dados.png'>
+**Assista ao vídeo:**
 
-[![]()]()
-[![Apresentação](https://www.youtube.com/watch?v=8GSurpLUSoM)](https://www.youtube.com/watch?v=8GSurpLUSoM)
+<a href="https://www.youtube.com/watch?v=8GSurpLUSoM" target="_blank">
+<img src="dados.png" width="40%">
+</a>
 
