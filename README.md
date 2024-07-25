@@ -9,3 +9,9 @@
 [Documentação Pandas](https://pandas.pydata.org/docs/)
 
 ### Para instalar o pandas no VScode: pip install pandas
+
+[Documentação SQLAlchemy](https://docs.sqlalchemy.org/en/20/)
+
+### Para instalar o pandas no VScode: pip install SQLAlchemy
+
+
