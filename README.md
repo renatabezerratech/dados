@@ -12,6 +12,6 @@
 
 [Documentação SQLAlchemy](https://docs.sqlalchemy.org/en/20/)
 
-### Para instalar o pandas no VScode: pip install SQLAlchemy
+### Para instalar o SQLAlchemy no VScode: pip install SQLAlchemy
 
 
