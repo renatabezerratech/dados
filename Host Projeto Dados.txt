@@ -1,0 +1,17 @@
+C:\Users\rsbez\Dados
+
+
+configuração das variáveis de ambiente para esse projeto:
+setx DB_USER "root"
+setx DB_PASSWORD "rbf#250904"
+setx DB_HOST "localhost"
+setx DB_DATABASE "db_PRODUTOS"
+ 
+
+verificá-las usando o comando echo no cmd:
+echo %DB_USER%
+echo %DB_PASSWORD%
+echo %DB_HOST%
+echo %DB_DATABASE%
+  
+

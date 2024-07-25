@@ -6,6 +6,10 @@
 <img src="dados.png" width="40%">
 </a>
 
+
+Leitura da [PEP 249](https://peps.python.org/pep-0249/) 
+
+
 [Documentação Pandas](https://pandas.pydata.org/docs/)
 
 ### Para instalar o pandas no VScode: pip install pandas
@@ -14,4 +18,4 @@
 
 ### Para instalar o SQLAlchemy no VScode: pip install SQLAlchemy
 
-
+[Meu instagram](https://www.instagram.com/p/C926QvbJiIfOnnqks2guRgMZH6GHdeJy641N-E0/)
