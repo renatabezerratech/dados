@@ -1,5 +1,5 @@
 import pandas as pd
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine   # O sqlalchemy é um ORM para não precisar escrever as querys em SQL
 
 # Configurações do MySQL
 user = 'root'
