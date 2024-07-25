@@ -6,4 +6,6 @@
 <img src="dados.png" width="40%">
 </a>
 
-[text](https://pandas.pydata.org/docs/)
+[Documentação Pandas](https://pandas.pydata.org/docs/)
+
+## Para instalar o pandas no VScode: pip install pandas
