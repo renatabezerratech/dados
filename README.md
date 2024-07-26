@@ -11,9 +11,9 @@
 
 📌 Dados não estruturados são os dados que não obedecem a uma organização, podendo ser arquivos de áudio, de postagens de mídia social, ou textos , etc.
 
-📌 Dados quantitativos estão relacionados a números. Também é chamado de dado numérico.
+📌 Dados quantitativos estão relacionados a números. Também é chamado de dado numérico. Dados quantitativos podem ser discretos ou contínuos. Por exemplo, o número de pessoas em um cinema são dados discretos porque você só pode contar indivíduos inteiros. Você não pode contar 1,7 pessoas. Dados contínuos podem ser divididos em níveis mais finos e assumir qualquer valor. Dados contínuos podem ser divididos em muitas casas decimais. 
 
-📌 Dados qualitativos referem-se a palavras e descrições. Também é chamado de dados categóricos.
+📌 Dados qualitativos referem-se a palavras e descrições. Também é chamado de dados categóricos. Dados qualitativos podem ser nominais ou ordinais. Dados nominais rotulam variáveis e podem ser agrupados em categorias, mas não têm uma ordem ou hierarquia significativa. Ordinal se refere à ordem das variáveis. Dados ordinais são colocados em uma ordem por sua posição em uma escala.
 
 📌 Leitura da página [Our World in Data] (https://ourworldindata.org/)
 
