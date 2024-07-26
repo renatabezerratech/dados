@@ -45,6 +45,9 @@ Big data são ativos de informação de alto volume, alta velocidade e/ou alta v
 Cada tipo de análise de dados tem um objetivo diferente:
 
 📌 Análise descritiva responde à pergunta: “O que está acontecendo?”
+
 📌 Análise diagnóstica responde "Por que tendências e padrões estão acontecendo?"
+
 📌 Análise preditiva usa dados históricos para fazer previsões sobre o futuro.
+
 📌 Análise prescritiva combina os insights de todas as análises de dados anteriores para determinar quais ações tomar para eliminar um problema futuro.
