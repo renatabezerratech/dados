@@ -26,3 +26,5 @@
 ### Para instalar o SQLAlchemy no VScode: pip install SQLAlchemy
 
 [Meu instagram](https://www.instagram.com/p/C926QvbJiIfOnnqks2guRgMZH6GHdeJy641N-E0/)
+
+<img src='img_IBM_dados.png' width = 30%>
