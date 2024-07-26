@@ -27,4 +27,5 @@
 
 [Meu instagram](https://www.instagram.com/p/C926QvbJiIfOnnqks2guRgMZH6GHdeJy641N-E0/)
 
+ IBM - crescimento exponencial de dados:
 <img src='img_IBM_dados.png' width = 50%>
