@@ -30,10 +30,12 @@
 
 [Meu instagram](https://www.instagram.com/p/C926QvbJiIfOnnqks2guRgMZH6GHdeJy641N-E0/)
 
+<center>
  IBM - crescimento exponencial de dados:
-<img src='img_IBM_dados.png' width = 50% align='middle'>
-
+<img src='img_IBM_dados.png' width = 50% >
+</center>
+<center>
 Gartner:
 Big data são ativos de informação de alto volume, alta velocidade e/ou alta variedade que exigem formas inovadoras e econômicas de processamento de informações que permitam melhor percepção, tomada de decisões e automação de processos.
-
-<img src='big data.png' width = 50% align='middle'>
+<img src='big data.png' width = 50% >
+</center>
