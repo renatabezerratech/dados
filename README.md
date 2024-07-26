@@ -11,6 +11,9 @@
 
 📌 Dados não estruturados são os dados que não obedecem a uma organização, podendo ser arquivos de áudio, de postagens de mídia social, ou textos , etc.
 
+📌 Dados quantitativos estão relacionados a números. Também é chamado de dado numérico.
+
+📌 Dados qualitativos referem-se a palavras e descrições. Também é chamado de dados categóricos.
 
 📌 Leitura da página [Our World in Data] (https://ourworldindata.org/)
 
