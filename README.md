@@ -12,7 +12,9 @@
 📌 Dados não estruturados são os dados que não obedecem a uma organização, podendo ser arquivos de áudio, de postagens de mídia social, ou textos , etc.
 
 
-Leitura da [PEP 249](https://peps.python.org/pep-0249/) 
+📌 Leitura da página [Our World in Data] (https://ourworldindata.org/)
+
+📌 Leitura da [PEP 249](https://peps.python.org/pep-0249/) 
 
 
 [Documentação Pandas](https://pandas.pydata.org/docs/)
