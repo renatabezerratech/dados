@@ -27,4 +27,4 @@
 
 [Meu instagram](https://www.instagram.com/p/C926QvbJiIfOnnqks2guRgMZH6GHdeJy641N-E0/)
 
-<img src='img_IBM_dados.png' width = 30%>
+<img src='img_IBM_dados.png' width = 50%>
