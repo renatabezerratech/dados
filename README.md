@@ -7,7 +7,7 @@
 </a>
 
 
-📌 Dados estruturados são informações que podem ser dispostas em linhas e colunas.
+📌 Dados estruturados são informações que podem ser dispostas em linhas e colunas. Se você puder organizar informações dentro de dados em grupos, com base em características específicas, então esses grupos são dados estruturados.
 
 📌 Dados não estruturados são os dados que não obedecem a uma organização, podendo ser arquivos de áudio, de postagens de mídia social, ou textos , etc.
 
