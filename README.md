@@ -56,6 +56,7 @@ Analistas de dados usam gráficos específicos para visualizar dados quantitativ
 <center>
  IBM - gráficos para tipos de dados:
 <img src='IBM-graficosDados.png' width = 50% >
+<img src='IBM-graficosDados-Exemplos.png' width = 50% >
 </center>
 
 
