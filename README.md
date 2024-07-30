@@ -51,3 +51,8 @@ Cada tipo de análise de dados tem um objetivo diferente:
 📌 Análise preditiva usa dados históricos para fazer previsões sobre o futuro.
 
 📌 Análise prescritiva combina os insights de todas as análises de dados anteriores para determinar quais ações tomar para eliminar um problema futuro.
+
+## ETL (fonte IBM)
+
+ETL (que significa extrair, transformar, carregar) é um processo de integração de dados que combina, limpa e organiza dados de várias fontes em um único conjunto de dados consistente para armazenamento em um data warehouse , data lake ou outro sistema de destino.
+
