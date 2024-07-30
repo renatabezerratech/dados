@@ -59,6 +59,9 @@ Analistas de dados usam gráficos específicos para visualizar dados quantitativ
 <img src='IBM-graficosDados-Exemplos.png' width = 50% >
 </center>
 
+### pontos plotados
+
+[Khan Academy](https://pt.khanacademy.org/math/basic-geo/basic-geo-coord-plane/x7fa91416:coordinate-plane-word-problems/v/interpreting-plotted-points)
 
 ## ETL (fonte IBM)
 
