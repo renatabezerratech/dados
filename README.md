@@ -52,6 +52,13 @@ Cada tipo de análise de dados tem um objetivo diferente:
 
 📌 Análise prescritiva combina os insights de todas as análises de dados anteriores para determinar quais ações tomar para eliminar um problema futuro.
 
+Analistas de dados usam gráficos específicos para visualizar dados quantitativos e qualitativos. 
+<center>
+ IBM - gráficos para tipos de dados:
+<img src='IBM-graficosDados.png' width = 50% >
+</center>
+
+
 ## ETL (fonte IBM)
 
 ETL (que significa extrair, transformar, carregar) é um processo de integração de dados que combina, limpa e organiza dados de várias fontes em um único conjunto de dados consistente para armazenamento em um data warehouse , data lake ou outro sistema de destino.
@@ -61,6 +68,8 @@ ETL (que significa extrair, transformar, carregar) é um processo de integraçã
 A narrativa de dados envolve uma combinação de dados , visualizações e narrativas .
 
 📌 Quando a narrativa é associada a dados, ela explica ao público o que está acontecendo nos dados e por que um insight é importante.
+
 📌 Quando visualizações são aplicadas a dados, elas esclarecem um público com insights que eles não obteriam sem gráficos ou tabelas. Padrões e tendências emergem de todas as linhas e colunas em um banco de dados, com a ajuda de visualizações de dados.
+
 📌 Quando a narrativa e as visualizações se unem, elas podem criar uma história de dados que pode influenciar, impulsionar mudanças e envolver o público.
 
