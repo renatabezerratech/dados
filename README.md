@@ -86,5 +86,5 @@ A narrativa de dados envolve uma combinação de dados , visualizações e narra
 
 <center>
  IBM - KDD:
-<img src='KDD-IBM.png' width = 50% >
+<img src='KDD-IBM.png' width = 70% >
 </center>
