@@ -95,3 +95,8 @@ CRISP-DM, KDD e SEMMA são metodologias clássicas e amplamente adotadas para mi
  IBM - SEMMA:
 <img src='SEMMA-IBM.png' width = 70% >
 </center>
+
+<center>
+ IBM - ENGENHARIA DE DADOS:
+<img src='engenharia-de-dados_IBM.png' width = 70% >
+</center>
