@@ -77,9 +77,14 @@ A narrativa de dados envolve uma combinação de dados , visualizações e narra
 
 📌 Quando a narrativa e as visualizações se unem, elas podem criar uma história de dados que pode influenciar, impulsionar mudanças e envolver o público.
 
-## Data mining (fonte IBM)
+## Metodologias (fonte IBM)
 
 <center>
  IBM - CRISP-DM:
 <img src='data-mining-IBM.png' width = 50% >
+</center>
+
+<center>
+ IBM - KDD:
+<img src='KDD-IBM.png' width = 50% >
 </center>
