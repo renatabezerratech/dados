@@ -88,3 +88,8 @@ A narrativa de dados envolve uma combinação de dados , visualizações e narra
  IBM - KDD:
 <img src='KDD-IBM.png' width = 70% >
 </center>
+
+<center>
+ IBM - SEMMA:
+<img src='SEMMA-IBM.png' width = 70% >
+</center>
