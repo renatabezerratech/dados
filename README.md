@@ -40,7 +40,19 @@ Big data são ativos de informação de alto volume, alta velocidade e/ou alta v
 <img src='big data.png' width = 50% >
 </center>
 
-## Análise de dados
+## Análise de dados (Coursera - Google Data Analytics)
+
+📌 Fazer perguntas e definir o problema.
+
+📌 Preparar os dados, coletando e armazenando as informações.
+
+📌 Processar os dados, limpando e verificando as informações.
+
+📌 Analisar os dados para encontrar padrões, relações e tendências.
+
+📌 Compartilhar dados com seu público.
+
+📌 Agir com base nos dados e usar os resultados da análise.
 
 Cada tipo de análise de dados tem um objetivo diferente:
 
