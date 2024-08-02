@@ -21,6 +21,8 @@ Um pipeline de dados é uma sequência de etapas interconectadas que permitem a 
 
 O principal objetivo de um pipeline de dados é fornecer uma estrutura eficiente e confiável para lidar com grandes volumes de dados, garantindo sua integridade, segurança e acessibilidade. Mas, independente da ordem do fluxo que escolhemos, um pipeline de dados conta com alguns componentes principais como fontes de dados, transformações e destinos.
 
+O pipeline de dados segue várias etapas essenciais desde a obtenção dos dados brutos até a disponibilização de insights e resultados. Duas abordagens comuns para esse fluxo são o ETL (Extract, Transform, Load) e o ELT (Extract, Load, Transform).
+
 
 📌 Leitura da página [Our World in Data] (https://ourworldindata.org/)
 
