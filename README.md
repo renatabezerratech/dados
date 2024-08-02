@@ -15,6 +15,13 @@
 
 📌 Dados qualitativos referem-se a palavras e descrições. Também é chamado de dados categóricos. Dados qualitativos podem ser nominais ou ordinais. Dados nominais rotulam variáveis e podem ser agrupados em categorias, mas não têm uma ordem ou hierarquia significativa. Ordinal se refere à ordem das variáveis. Dados ordinais são colocados em uma ordem por sua posição em uma escala.
 
+## Pipeline de dados (fonte Alura)
+
+Um pipeline de dados é uma sequência de etapas interconectadas que permitem a coleta, armazenamento, transformação, análise e visualização de dados, com a intenção de facilitar o fluxo contínuo e automatizado de informações, desde a sua origem até o destino final, a fim de obter insights valiosos e tomar decisões informadas.
+
+O principal objetivo de um pipeline de dados é fornecer uma estrutura eficiente e confiável para lidar com grandes volumes de dados, garantindo sua integridade, segurança e acessibilidade. Mas, independente da ordem do fluxo que escolhemos, um pipeline de dados conta com alguns componentes principais como fontes de dados, transformações e destinos.
+
+
 📌 Leitura da página [Our World in Data] (https://ourworldindata.org/)
 
 📌 Leitura da [PEP 249](https://peps.python.org/pep-0249/) 
