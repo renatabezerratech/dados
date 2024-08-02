@@ -3,7 +3,7 @@
 **Assista ao vídeo:**
 
 <a href="https://www.youtube.com/watch?v=8GSurpLUSoM" target="_blank">
-<img src="dados.png" width="40%">
+<img src="imagens/dados.png" width="40%">
 </a>
 
 
@@ -25,12 +25,12 @@ O pipeline de dados segue várias etapas essenciais desde a obtenção dos dados
 
 <center>
 ETL:
-<img src='ETL.png' width = 50% >
+<img src='imagens/ETL.png' width = 50% >
 </center>
 
 <center>
  ELT:
-<img src='ELT.png' width = 50% >
+<img src='imagens/ELT.png' width = 50% >
 </center>
 
 📌 Leitura da página [Our World in Data] (https://ourworldindata.org/)
@@ -50,13 +50,13 @@ ETL:
 
 <center>
  IBM - crescimento exponencial de dados:
-<img src='img_IBM_dados.png' width = 50% >
+<img src='imagens/img_IBM_dados.png' width = 50% >
 </center>
 
 <center>
 Gartner:
 Big data são ativos de informação de alto volume, alta velocidade e/ou alta variedade que exigem formas inovadoras e econômicas de processamento de informações que permitam melhor percepção, tomada de decisões e automação de processos.
-<img src='big data.png' width = 50% >
+<img src='imagens/big data.png' width = 50% >
 </center>
 
 ## Análise de dados (Coursera - Google Data Analytics)
@@ -86,8 +86,8 @@ Cada tipo de análise de dados tem um objetivo diferente:
 Analistas de dados usam gráficos específicos para visualizar dados quantitativos e qualitativos. 
 <center>
  IBM - gráficos para tipos de dados:
-<img src='IBM-graficosDados.png' width = 50% >
-<img src='IBM-graficosDados-Exemplos.png' width = 50% >
+<img src='imagens/IBM-graficosDados.png' width = 50% >
+<img src='imagens/IBM-graficosDados-Exemplos.png' width = 50% >
 </center>
 
 ### pontos plotados
@@ -114,20 +114,20 @@ CRISP-DM, KDD e SEMMA são metodologias clássicas e amplamente adotadas para mi
 
 <center>
  IBM - CRISP-DM:
-<img src='data-mining-IBM.png' width = 50% >
+<img src='imagens/data-mining-IBM.png' width = 50% >
 </center>
 
 <center>
  IBM - KDD:
-<img src='KDD-IBM.png' width = 70% >
+<img src='imagens/KDD-IBM.png' width = 70% >
 </center>
 
 <center>
  IBM - SEMMA:
-<img src='SEMMA-IBM.png' width = 70% >
+<img src='imagens/SEMMA-IBM.png' width = 70% >
 </center>
 
 <center>
  IBM - ENGENHARIA DE DADOS:
-<img src='engenharia-de-dados_IBM.png' width = 70% >
+<img src='imagens/engenharia-de-dados_IBM.png' width = 70% >
 </center>
