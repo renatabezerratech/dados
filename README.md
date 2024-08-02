@@ -23,6 +23,15 @@ O principal objetivo de um pipeline de dados é fornecer uma estrutura eficiente
 
 O pipeline de dados segue várias etapas essenciais desde a obtenção dos dados brutos até a disponibilização de insights e resultados. Duas abordagens comuns para esse fluxo são o ETL (Extract, Transform, Load) e o ELT (Extract, Load, Transform).
 
+<center>
+ETL:
+<img src='ETL.png' width = 50% >
+</center>
+
+<center>
+ ELT:
+<img src='ELT.png' width = 50% >
+</center>
 
 📌 Leitura da página [Our World in Data] (https://ourworldindata.org/)
 
@@ -43,6 +52,7 @@ O pipeline de dados segue várias etapas essenciais desde a obtenção dos dados
  IBM - crescimento exponencial de dados:
 <img src='img_IBM_dados.png' width = 50% >
 </center>
+
 <center>
 Gartner:
 Big data são ativos de informação de alto volume, alta velocidade e/ou alta variedade que exigem formas inovadoras e econômicas de processamento de informações que permitam melhor percepção, tomada de decisões e automação de processos.
