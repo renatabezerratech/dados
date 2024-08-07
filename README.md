@@ -11,9 +11,9 @@
 
 📌 Dados não estruturados são os dados que não obedecem a uma organização, podendo ser arquivos de áudio, de postagens de mídia social, ou textos , etc.
 
-📌 Dados quantitativos estão relacionados a números. Também é chamado de dado numérico. Dados quantitativos podem ser discretos ou contínuos. Por exemplo, o número de pessoas em um cinema são dados discretos porque você só pode contar indivíduos inteiros. Você não pode contar 1,7 pessoas. Dados contínuos podem ser divididos em níveis mais finos e assumir qualquer valor. Dados contínuos podem ser divididos em muitas casas decimais. 
+📌 Dados quantitativos estão relacionados a números. Também é chamado de dado numérico. Dados quantitativos podem ser discretos, contínuos ou razão. Por exemplo, o número de pessoas em um cinema são dados discretos porque você só pode contar indivíduos inteiros. Você não pode contar 1,7 pessoas. Dados contínuos podem ser divididos em níveis mais finos e assumir qualquer valor, dados contínuos podem ser divididos em muitas casas decimais. Os dados razão representam comparação de valores, tipo diferença ou uma igualdade, por exemplo quando se fala em proporção, em que estamos falando da igualdade entre duas ou mais razões provenientes das medidas extraídas de grandezas.  Podemos ainda exemplificar dados razão quando se fala da distância entre dois objetos e, o mais importante: dados razão podem ser discretos ou contínuos. 
 
-📌 Dados qualitativos referem-se a palavras e descrições. Também é chamado de dados categóricos. Dados qualitativos podem ser nominais ou ordinais. Dados nominais rotulam variáveis e podem ser agrupados em categorias, mas não têm uma ordem ou hierarquia significativa. Ordinal se refere à ordem das variáveis. Dados ordinais são colocados em uma ordem por sua posição em uma escala.
+📌 Dados qualitativos referem-se a palavras, descrições, qualidade. Também são chamados de dados categóricos, sendo seus atributos (binário 'sim ou não' 'exite ou não existe' , nominal que é informação de qualidade 'estado civil' e  ordinal 'nível de escolaridade'). explicando mais dados qualitativos nominais ou ordinais: Dados nominais rotulam variáveis e podem ser agrupados em categorias, mas não têm uma ordem ou hierarquia significativa. Ordinal se refere à ordem das variáveis. Dados ordinais são colocados em uma ordem por sua posição em uma escala.
 
 ## Pipeline de dados (fonte Alura)
 
@@ -82,6 +82,11 @@ Cada tipo de análise de dados tem um objetivo diferente:
 📌 Análise preditiva usa dados históricos para fazer previsões sobre o futuro.
 
 📌 Análise prescritiva combina os insights de todas as análises de dados anteriores para determinar quais ações tomar para eliminar um problema futuro.
+
+
+## Mineração de dados (fonte Estácio)
+
+📌 A mineração é o processo de extração dos dados de uma base, esse processo tem procedimentos como: extrair os dados da base de dados, utilizar ferramentas que vão tratar e transformar esses dados em informações e através dessas informações será possível passar o conhecimento que é o objetivo do processo de mineração.
 
 Analistas de dados usam gráficos específicos para visualizar dados quantitativos e qualitativos. 
 <center>
