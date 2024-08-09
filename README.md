@@ -144,6 +144,18 @@ A narrativa de dados envolve uma combinação de dados , visualizações e narra
 <img src='imagens/SEMMA - SAS.png' width = 70% >
 </center>
 
+Fonte Instituto SAS: O SAS Institute define mineração de dados como o processo de Amostragem, Exploração, Modificação, Modelagem e Avaliação (SEMMA) de grandes quantidades de dados para descobrir padrões previamente desconhecidos que podem ser utilizados como uma vantagem comercial. 
+
+📌 Sample | Amostra: As amostras devem ser grandes o suficiente para conter as informações significativas, mas pequenas o suficiente para serem processadas.
+
+📌 Explore | Explorar: identifique relacionamentos previstos, tendências não previstas e anomalias para obter entendimento e ideias.
+
+📌 Modify | Modificar: crie, selecione e transforme as variáveis ​​para focar o processo de seleção do modelo.
+
+📌 Model | Modelar: use ferramentas analíticas para procurar uma combinação de dados que preveja de forma confiável um resultado desejado.
+
+📌 Assess | Avaliar: avalie a utilidade e a confiabilidade das descobertas do processo de mineração de dados.
+
 <center>
  IBM - ENGENHARIA DE DADOS:
 <img src='imagens/engenharia-de-dados_IBM.png' width = 70% >
