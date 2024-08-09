@@ -174,6 +174,12 @@ Fonte Instituto SAS: O SAS Institute define mineração de dados como o processo
 <img src='imagens/engenharia-de-dados_IBM.png' width = 70% >
 </center>
 
+### *exploração inicial de dados*
+
+- Quais características de dados parecem promissoras para análises posteriores?
+- A exploração revelou novas características sobre os dados?
+- A exploração mudou a hipótese inicial?
+
 
 ## Mineração de dados (fonte Estácio)
 
