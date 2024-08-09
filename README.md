@@ -157,7 +157,13 @@ Fonte Instituto SAS: O SAS Institute define mineração de dados como o processo
 📌 Assess | Avaliar: avalie a utilidade e a confiabilidade das descobertas do processo de mineração de dados.
 
 <center>
- IBM - ENGENHARIA DE DADOS:
+ METODOLOGIA IBM:
+- Compreensão empresarial
+- Exploração e preparação de dados
+- Representação e transformação de dados
+- Visualização e apresentação de dados
+- Treinar modelos de dados
+- Implantar modelos de dados
 <img src='imagens/engenharia-de-dados_IBM.png' width = 70% >
 </center>
 
