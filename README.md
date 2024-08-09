@@ -1,6 +1,6 @@
 # Dados 🎲
 
-**Assista ao vídeo:**
+**Em breve:**
 
 <a href="https://www.youtube.com/watch?v=8GSurpLUSoM" target="_blank">
 <img src="imagens/dados.png" width="40%">
