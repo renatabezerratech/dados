@@ -44,6 +44,7 @@ ETL:
 
 📌 Cientistas de dados  projetam e criam novos processos para modelagem de dados. Eles usam algoritmos, análises preditivas e análises estatísticas. Cientistas de dados têm habilidades técnicas para organizar dados não estruturados e construir suas próprias metodologias para fazer previsões com base em tendências de dados.
 
+## Ferramentas e leituras:
 
 📌 Leitura da página [Our World in Data] (https://ourworldindata.org/)
 
@@ -58,7 +59,6 @@ ETL:
 
 ### Para instalar o SQLAlchemy no VScode: pip install SQLAlchemy
 
-[Meu instagram](https://www.instagram.com/p/C926QvbJiIfOnnqks2guRgMZH6GHdeJy641N-E0/)
 
 <center>
  IBM - crescimento exponencial de dados:
