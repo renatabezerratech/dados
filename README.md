@@ -98,10 +98,6 @@ Cada tipo de análise de dados tem um objetivo diferente:
 📌 Análise prescritiva combina os insights de todas as análises de dados anteriores para determinar quais ações tomar para eliminar um problema futuro.
 
 
-## Mineração de dados (fonte Estácio)
-
-📌 A mineração é o processo de extração dos dados de uma base, esse processo tem procedimentos como: extrair os dados da base de dados, utilizar ferramentas que vão tratar e transformar esses dados em informações e através dessas informações será possível passar o conhecimento que é o objetivo do processo de mineração.
-
 Analistas de dados usam gráficos específicos para visualizar dados quantitativos e qualitativos. 
 <center>
  IBM - gráficos para tipos de dados:
@@ -125,9 +121,10 @@ A narrativa de dados envolve uma combinação de dados , visualizações e narra
 
 📌 Quando a narrativa e as visualizações se unem, elas podem criar uma história de dados que pode influenciar, impulsionar mudanças e envolver o público.
 
+
 ## Metodologias para dados estruturados (fonte IBM)
 
-CRISP-DM, KDD e SEMMA são metodologias clássicas e amplamente adotadas para mineração de dados e são mais adequadas para dados estruturados, são úteis para usar análises descritivas e preditivas.
+*CRISP-DM, KDD e SEMMA são metodologias clássicas e amplamente adotadas para mineração de dados e são mais adequadas para dados estruturados, são úteis para usar análises descritivas e preditivas.*
 
 <center>
  📌 IBM - CRISP-DM:
@@ -151,3 +148,10 @@ CRISP-DM, KDD e SEMMA são metodologias clássicas e amplamente adotadas para mi
  IBM - ENGENHARIA DE DADOS:
 <img src='imagens/engenharia-de-dados_IBM.png' width = 70% >
 </center>
+
+
+## Mineração de dados (fonte Estácio)
+
+📌 A mineração é o processo de extração dos dados de uma base, esse processo tem procedimentos como: extrair os dados da base de dados, utilizar ferramentas que vão tratar e transformar esses dados em informações e através dessas informações será possível passar o conhecimento que é o objetivo do processo de mineração. 
+
+📌 Modelo : Com as variáveis ​​refinadas e os dados limpos, a etapa de modelagem aplica uma variedade de técnicas de mineração de dados para produzir um modelo projetado de como esses dados alcançam o resultado final desejado do processo.
