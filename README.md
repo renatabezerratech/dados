@@ -158,10 +158,16 @@ Fonte Instituto SAS: O SAS Institute define mineração de dados como o processo
 
 
  ## METODOLOGIA IBM:
-- Compreensão empresarial
-- Exploração e preparação de dados
-- Representação e transformação de dados
+
+ -----> entender o problema comercial atual e o público alvo;
+- Compreensão empresarial  
+
+ -----> reúne, transforma e atualiza os dados, utiliza análise descritiva e diagnóstica buscando como resultado uma solução proposta.
+- Exploração e preparação de dados  
+- Representação e transformação de dados  
 - Visualização e apresentação de dados
+
+ -----> treinamento e implantação de modelo de dados e uso de IA para prever ou classificar os insights obtidos, antecipar problemas futuros utilizando análise preditiva e prescritiva.
 - Treinar modelos de dados
 - Implantar modelos de dados
 <center>
