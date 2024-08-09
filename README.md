@@ -124,7 +124,7 @@ A narrativa de dados envolve uma combinação de dados , visualizações e narra
 
 ## Metodologias para dados estruturados (fonte IBM)
 
-*CRISP-DM, KDD e SEMMA são metodologias clássicas e amplamente adotadas para mineração de dados e são mais adequadas para dados estruturados, são úteis para usar análises descritivas e preditivas.*
+*CRISP-DM, KDD e SEMMA são metodologias clássicas e amplamente adotadas para mineração de dados e são mais adequadas para dados estruturados, são úteis para usar análises descritivas e preditivas. As três metodologias são todas iterativas! Isso significa que as fases ou etapas podem ser repetidas. O conhecimento adquirido pode ser reciclado de volta ao processo para obter mais ou diferentes insights.*
 
 <center>
  📌 IBM - CRISP-DM:
