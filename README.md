@@ -191,6 +191,10 @@ Cientistas de dados não podem presumir que os dados estão prontos para uso, me
 - Um outlier, que é um valor que está muito distante de outros valores e distorce os dados
 - Um valor ausente em alguns campos
 
+📌 SQL é a linguagem mais comum para extrair, organizar e gerenciar dados em um banco de dados relacional para então executar várias operações nos dados. 
+
+📌 Um arquivo de valores separados por vírgula (CSV)  permite que os dados sejam salvos em um formato tabular. 
+
 ## Mineração de dados (fonte Estácio)
 
 📌 A mineração é o processo de extração dos dados de uma base, esse processo tem procedimentos como: extrair os dados da base de dados, utilizar ferramentas que vão tratar e transformar esses dados em informações e através dessas informações será possível passar o conhecimento que é o objetivo do processo de mineração. 
