@@ -33,6 +33,14 @@ ETL:
 <img src='imagens/ELT.png' width = 50% >
 </center>
 
+
+## Data analytics e data science (fonte IBM)
+
+📌 Analistas de dados coletam e examinam grandes conjuntos de dados para identificar tendências, previsões e visualizações de dados para contar uma história convincente por meio de insights acionáveis. Esses insights ajudam as empresas a tomar decisões informadas sobre as necessidades comerciais.
+
+📌 Cientistas de dados  projetam e criam novos processos para modelagem de dados. Eles usam algoritmos, análises preditivas e análises estatísticas. Cientistas de dados têm habilidades técnicas para organizar dados não estruturados e construir suas próprias metodologias para fazer previsões com base em tendências de dados.
+
+
 📌 Leitura da página [Our World in Data] (https://ourworldindata.org/)
 
 📌 Leitura da [PEP 249](https://peps.python.org/pep-0249/) 
