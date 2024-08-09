@@ -123,7 +123,7 @@ A narrativa de dados envolve uma combinação de dados , visualizações e narra
 
 📌 Quando a narrativa e as visualizações se unem, elas podem criar uma história de dados que pode influenciar, impulsionar mudanças e envolver o público.
 
-## Metodologias (fonte IBM)
+## Metodologias para dados não estruturados (fonte IBM)
 
 CRISP-DM, KDD e SEMMA são metodologias clássicas e amplamente adotadas para mineração de dados e são mais adequadas para dados estruturados.
 
