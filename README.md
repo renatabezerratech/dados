@@ -201,6 +201,18 @@ Cientistas de dados não podem presumir que os dados estão prontos para uso, me
 - Avaliação da qualidade dos dados
 - Descobrindo insights iniciais sobre os dados
 
+### *Estatística descritiva*
+
+ A estatística descritiva resume *quantitativamente* um conjunto de dados. Ela pode responder à pergunta: *"O que está acontecendo?"* Cientistas de dados podem construir uma tabela para descrever um conjunto de dados grande e complexo e fazer observações rápidas sobre:
+
+- Número (N): Qual é o número total de observações?
+- Média: Qual é a média de um conjunto de dois ou mais números?
+- Mediana: Qual é o número do meio ou “centro” em uma lista ordenada de números? 
+- Moda: Qual é o valor mais observado em um conjunto de dados?
+- Mínimo: Qual é o extremo mínimo de um conjunto de dados?
+- Máximo: Qual é o extremo máximo de um conjunto de dados?
+- Desvio padrão: Quão dispersos estão os dados em relação à média?
+
 ## Mineração de dados (fonte Estácio)
 
 📌 A mineração é o processo de extração dos dados de uma base, esse processo tem procedimentos como: extrair os dados da base de dados, utilizar ferramentas que vão tratar e transformar esses dados em informações e através dessas informações será possível passar o conhecimento que é o objetivo do processo de mineração. 
