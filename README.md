@@ -129,7 +129,7 @@ A narrativa de dados envolve uma combinação de dados , visualizações e narra
 <center>
  📌 IBM - CRISP-DM:
  O CRISP-DM é iterativo , o que significa que as fases podem ser repetidas para melhorar incrementalmente o resultado. Os resultados de alguns estágios podem exigir que o ciclo do projeto retorne aos estágios anteriores.
-<img src='imagens/data-mining-IBM.png' width = 50% >
+<img src='imagens/data-mining-IBM.png' width = 60% >
 </center>
 
 <center>
