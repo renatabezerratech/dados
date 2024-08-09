@@ -213,6 +213,12 @@ Cientistas de dados não podem presumir que os dados estão prontos para uso, me
 - Máximo: Qual é o extremo máximo de um conjunto de dados?
 - Desvio padrão: Quão dispersos estão os dados em relação à média?
 
+### *Visualizações exploratórias*
+
+Às vezes, as estatísticas podem ser enganosas quando usadas por si só, então é importante ter outras técnicas. Cientistas de dados também usam visualizações exploratórias . Visualizações exploratórias ajudam a tornar dados complexos mais acessíveis e reveladores. Cientistas de dados usam visualizações iniciais, como tabelas, gráficos e mapas, para descobrir distribuições, encontrar padrões e entender tendências.
+
+Estatísticas descritivas, técnicas de visualização e muitas outras técnicas ajudam os cientistas de dados a entender os dados e avaliar sua qualidade . As equipes de ciência de dados devem validar a qualidade dos dados que usam como entrada para modelagem preditiva porque dados de baixa qualidade levarão a um desempenho ruim do modelo mais tarde no processo.
+
 ## Mineração de dados (fonte Estácio)
 
 📌 A mineração é o processo de extração dos dados de uma base, esse processo tem procedimentos como: extrair os dados da base de dados, utilizar ferramentas que vão tratar e transformar esses dados em informações e através dessas informações será possível passar o conhecimento que é o objetivo do processo de mineração. 
