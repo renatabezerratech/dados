@@ -23,6 +23,10 @@ O principal objetivo de um pipeline de dados é fornecer uma estrutura eficiente
 
 O pipeline de dados segue várias etapas essenciais desde a obtenção dos dados brutos até a disponibilização de insights e resultados. Duas abordagens comuns para esse fluxo são o ETL (Extract, Transform, Load) e o ELT (Extract, Load, Transform).
 
+## ETL (fonte IBM)
+
+ETL (que significa extrair, transformar, carregar) é um processo de integração de dados que combina, limpa e organiza dados de várias fontes em um único conjunto de dados consistente para armazenamento em um data warehouse , data lake ou outro sistema de destino.
+
 <center>
 ETL:
 <img src='imagens/ETL.png' width = 50% >
@@ -107,9 +111,7 @@ Analistas de dados usam gráficos específicos para visualizar dados quantitativ
 
 [Khan Academy](https://pt.khanacademy.org/math/basic-geo/basic-geo-coord-plane/x7fa91416:coordinate-plane-word-problems/v/interpreting-plotted-points)
 
-## ETL (fonte IBM)
 
-ETL (que significa extrair, transformar, carregar) é um processo de integração de dados que combina, limpa e organiza dados de várias fontes em um único conjunto de dados consistente para armazenamento em um data warehouse , data lake ou outro sistema de destino.
 
 ## Narrativa de dados (fonte IBM)
 
