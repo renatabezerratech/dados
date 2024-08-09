@@ -141,6 +141,7 @@ CRISP-DM, KDD e SEMMA são metodologias clássicas e amplamente adotadas para mi
 
 <center>
  📌 IBM - SEMMA:
+ O Instituto SAS desenvolveu o SEMMA como um processo de mineração de dados. O SEMMA foca principalmente nas tarefas de modelagem de projetos de mineração de dados. SEMMA também é um processo iterativo  , no qual responder a um conjunto de perguntas geralmente leva a perguntas mais interessantes e específicas.
 <img src='imagens/SEMMA-IBM.png' width = 70% >
 </center>
 
