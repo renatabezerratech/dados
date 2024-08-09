@@ -195,6 +195,12 @@ Cientistas de dados não podem presumir que os dados estão prontos para uso, me
 
 📌 Um arquivo de valores separados por vírgula (CSV)  permite que os dados sejam salvos em um formato tabular. Cada linha do arquivo é um registro de dados.
 
+### *representação e transformação de dados*
+
+- Compreendendo os dados 
+- Avaliação da qualidade dos dados
+- Descobrindo insights iniciais sobre os dados
+
 ## Mineração de dados (fonte Estácio)
 
 📌 A mineração é o processo de extração dos dados de uma base, esse processo tem procedimentos como: extrair os dados da base de dados, utilizar ferramentas que vão tratar e transformar esses dados em informações e através dessas informações será possível passar o conhecimento que é o objetivo do processo de mineração. 
