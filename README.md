@@ -1,5 +1,7 @@
 # Dados 🎲
 
+*Acumular grandes volumes de dados não é equivalente a reunir conhecimento valioso. Somente quando os dados são classificados e avaliados que aprendemos algo com eles.*
+
 **Em breve:**
 
 <a href="https://www.youtube.com/watch?v=8GSurpLUSoM" target="_blank">
