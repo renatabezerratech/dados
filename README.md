@@ -154,4 +154,4 @@ A narrativa de dados envolve uma combinação de dados , visualizações e narra
 
 📌 A mineração é o processo de extração dos dados de uma base, esse processo tem procedimentos como: extrair os dados da base de dados, utilizar ferramentas que vão tratar e transformar esses dados em informações e através dessas informações será possível passar o conhecimento que é o objetivo do processo de mineração. 
 
-📌 Modelo : Com as variáveis ​​refinadas e os dados limpos, a etapa de modelagem aplica uma variedade de técnicas de mineração de dados para produzir um modelo projetado de como esses dados alcançam o resultado final desejado do processo.
+📌 Modelo : Com as variáveis ​​refinadas e os dados limpos, a etapa de modelagem aplica uma variedade de técnicas de mineração de dados para produzir um modelo projetado de como esses dados alcançam o resultado final desejado do processo,  é quando os dados coletados, selecionados e refinados são reunidos e testados objetivando chegar ao conhecimento derivado e ilustrá-lo mais visualmente.
