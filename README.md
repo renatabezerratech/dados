@@ -193,7 +193,7 @@ Cientistas de dados não podem presumir que os dados estão prontos para uso, me
 
 📌 SQL é a linguagem mais comum para extrair, organizar e gerenciar dados em um banco de dados relacional para então executar várias operações nos dados. 
 
-📌 Um arquivo de valores separados por vírgula (CSV)  permite que os dados sejam salvos em um formato tabular. 
+📌 Um arquivo de valores separados por vírgula (CSV)  permite que os dados sejam salvos em um formato tabular. Cada linha do arquivo é um registro de dados.
 
 ## Mineração de dados (fonte Estácio)
 
