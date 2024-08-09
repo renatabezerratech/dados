@@ -180,6 +180,16 @@ Fonte Instituto SAS: O SAS Institute define mineração de dados como o processo
 - A exploração revelou novas características sobre os dados?
 - A exploração mudou a hipótese inicial?
 
+### *preparação de dados*
+
+Cientistas de dados não podem presumir que os dados estão prontos para uso, mesmo que sejam dados estruturados. Dados do mundo real geralmente precisam de algum trabalho porque podem ser: 
+
+- Incompleto ou com valores incorretos 
+- Corrompido com linhas quebradas ou campos no lugar errado 
+- Muito aleatório
+- Irrelevante 
+- Um outlier, que é um valor que está muito distante de outros valores e distorce os dados
+- Um valor ausente em alguns campos
 
 ## Mineração de dados (fonte Estácio)
 
