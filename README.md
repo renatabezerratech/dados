@@ -135,6 +135,7 @@ CRISP-DM, KDD e SEMMA são metodologias clássicas e amplamente adotadas para mi
 
 <center>
  📌 IBM - KDD:
+ KDD é iterativo , o que significa que novos dados podem ser integrados e transformados para obter resultados diferentes e mais apropriados. Observação sobre KDD: o processo não aborda muitas das realidades modernas dos projetos de ciência de dados, como a configuração da arquitetura de big data, considerações de ética ou as várias funções em uma equipe de ciência de dados.
 <img src='imagens/KDD-IBM.png' width = 70% >
 </center>
 
