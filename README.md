@@ -44,7 +44,7 @@ ETL:
 
 📌 Analistas de dados coletam e examinam grandes conjuntos de dados para identificar tendências, previsões e visualizações de dados para contar uma história convincente por meio de insights acionáveis. Esses insights ajudam as empresas a tomar decisões informadas sobre as necessidades comerciais.
 
-📌 Cientistas de dados  projetam e criam novos processos para modelagem de dados. Eles usam algoritmos, análises preditivas e análises estatísticas. Cientistas de dados têm habilidades técnicas para organizar dados não estruturados e construir suas próprias metodologias para fazer previsões com base em tendências de dados.
+📌 Cientistas de dados  projetam e criam novos processos para modelagem de dados. Eles usam algoritmos, análises preditivas e análises estatísticas. Cientistas de dados têm habilidades técnicas para organizar dados não estruturados e construir suas próprias metodologias para fazer previsões com base em tendências de dados, usa técnicas como aprendizado de máquina para criar e treinar modelos para prever resultados futuros. 
 
 ## Ferramentas e leituras:
 
@@ -74,6 +74,8 @@ Big data são ativos de informação de alto volume, alta velocidade e/ou alta v
 </center>
 
 ## Análise de dados (Coursera - Google Data Analytics)
+
+Coletar, organizar, limpar e analisar ---> insights ---> tomada de decisões.
 
 📌 Fazer perguntas e definir o problema.
 
@@ -277,3 +279,7 @@ Tipos de aprendizado de máquina segundo a nvidia.com:
 
 
 📌 KDnuggets [Conceitos importantes](https://www.kdnuggets.com/2016/05/machine-learning-key-terms-explained.html) 
+
+
+📌 DataCamp [Data Science Use Cases Guide](https://www.datacamp.com/blog/data-science-use-cases-guide) 
+
