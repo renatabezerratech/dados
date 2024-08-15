@@ -283,3 +283,13 @@ Tipos de aprendizado de máquina segundo a nvidia.com:
 
 📌 DataCamp [Data Science Use Cases Guide](https://www.datacamp.com/blog/data-science-use-cases-guide) 
 
+
+## IA generativa (fonte Google):
+
+A IA generativa é um tipo de inteligência artificial que usa modelos de aprendizado de máquina para criar novos dados que são semelhantes aos dados com os quais foram treinados. As IAs generativas são capazes de criar uma variedade de dados, incluindo imagens, texto, áudio e vídeo.
+
+## Ferramentas de IA generativa (fonte Google):
+
+- Vertex AI: Uma plataforma unificada que pode ser usada para construir e implementar modelos de aprendizado de máquina, incluindo modelos generativos.
+
+- Vertex AI Studio: Uma ferramenta dentro do Vertex AI projetada especificamente para prototipagem e teste rápidos de modelos de IA generativa.
