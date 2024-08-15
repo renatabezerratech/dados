@@ -269,4 +269,4 @@ Tipos de aprendizado de máquina segundo a nvidia.com:
 
 - Autoencoders : Autoencoders pegam dados de entrada, compactam em um código e tentam recriar os dados de entrada a partir desse código resumido. Embora seja um truque de aprendizado profundo, há menos casos reais em que um autocodificador simples é útil. Mas adicione uma camada de complexidade e as possibilidades se multiplicam: ao usar versões com ruído e limpas de uma imagem durante o treinamento, os autoencoders podem remover ruído de dados visuais como imagens, vídeos ou exames médicos para melhorar a qualidade da imagem.
 
-<img src='imagens/redes neurais.png' width = 70% >
+<img src='imagens/redes neurais.png' width = 100% >
