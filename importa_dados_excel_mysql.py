@@ -3,7 +3,7 @@ from sqlalchemy import create_engine   # O sqlalchemy é um ORM para não precis
 
 # Configurações do MySQL
 user = 'root'
-password = 'rbf#250904'
+password = '********'
 host = 'localhost'
 database = 'db_PRODUTOS'
 

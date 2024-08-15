@@ -2,7 +2,7 @@ from sqlalchemy import create_engine, text
 
 # String de conexão para o banco de dados MySQL
 engine = create_engine(
-    'mysql+pymysql://root:rbf#250904@localhost/db_testeConexao'
+    'mysql+pymysql://root:********@localhost/db_testeConexao'
 )
 
 def inserir_dados():
