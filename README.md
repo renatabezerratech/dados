@@ -224,3 +224,47 @@ Estatísticas descritivas, técnicas de visualização e muitas outras técnicas
 📌 A mineração é o processo de extração dos dados de uma base, esse processo tem procedimentos como: extrair os dados da base de dados, utilizar ferramentas que vão tratar e transformar esses dados em informações e através dessas informações será possível passar o conhecimento que é o objetivo do processo de mineração. 
 
 📌 Modelo : Com as variáveis ​​refinadas e os dados limpos, a etapa de modelagem aplica uma variedade de técnicas de mineração de dados para produzir um modelo projetado de como esses dados alcançam o resultado final desejado do processo,  é quando os dados coletados, selecionados e refinados são reunidos e testados objetivando chegar ao conhecimento derivado e ilustrá-lo mais visualmente.
+
+## Machine learning:
+
+Aprendizado de máquina (ML) é um ramo da inteligência artificial (IA)  e da ciência da computação que se concentra no uso de dados e algoritmos para permitir que a IA imite a maneira como os humanos aprendem, melhorando gradualmente sua precisão.
+
+Um algoritmo de aprendizado de máquina "ingere" dados para que possa melhorar sua precisão.
+
+*Aprendizado supervisionado*
+O aprendizado supervisionado treina máquinas em dados para construir regras gerais que podem ser aplicadas a problemas futuros. Quanto melhor o conjunto de dados de treinamento, melhor a saída.
+As informações podem, por exemplo, ser desenhos e fotos de animais, alguns dos quais são cães e são rotulados como “cão”. A máquina tenta identificar padrões para que, quando vir uma nova foto de um cão e for perguntada, “O que é isso?”, ela possa responder, “cão”, com alta precisão.
+
+*Aprendizado não supervisionado*
+O aprendizado não supervisionado treina máquinas em um grande volume de dados não rotulados. Por exemplo, uma máquina pode receber muitas fotos e artigos sobre cães. A máquina ingere e classifica as informações dentro de todas as fotos e artigos. Quando é mostrada à máquina uma nova foto de um cão, a máquina pretende ser capaz de identificá-la como um cão, com precisão razoável.
+
+*Aprendizado por reforço*
+O aprendizado por reforço não envolve um objetivo específico, é uma técnica de aprendizado de máquina baseada em feedback. Envolve aprender por tentativa e erro ou “aprender conforme você avança”. O aprendizado por reforço é amplamente usado em carros autônomos, drones e outras aplicações robóticas. 
+
+Segundo a fonte *UC Berkeley School of Information* o algoritmo típico de aprendizado de máquina supervisionado consiste em aproximadamente três componentes:
+
+1 - Um processo de decisão:  uma receita de cálculos ou outras etapas que recebe os dados e “adivinham” que tipo de padrão seu algoritmo está procurando encontrar.
+
+2 - Uma função de erro:  Um método de medir o quão boa foi a suposição comparando-a com exemplos conhecidos (quando eles estão disponíveis). O processo de decisão acertou? Se não, como você quantifica “quão ruim” foi a falha?
+
+3 - Um processo de atualização ou otimização:  um método no qual o algoritmo analisa o erro e então atualiza como o processo de decisão chega à decisão final, para que na próxima vez o erro não seja tão grande.
+
+Tipos de aprendizado de máquina segundo a nvidia.com:
+
+1 - Aprendizado supervisionado:  o conjunto de dados usado foi pré-rotulado e classificado pelos usuários para permitir que o algoritmo veja quão preciso é seu desempenho.
+
+2 - Aprendizado não supervisionado:  o conjunto de dados brutos usado não é rotulado e um algoritmo identifica padrões e relacionamentos dentro dos dados sem ajuda dos usuários.
+
+3 - Aprendizado semissupervisionado:  O conjunto de dados contém dados estruturados e não estruturados, que guiam o algoritmo em seu caminho para tirar conclusões independentes. A combinação dos dois tipos de dados em um conjunto de dados de treinamento permite que algoritmos de aprendizado de máquina aprendam a rotular dados não rotulados.
+
+4 - Aprendizado por reforço:  O conjunto de dados usa um sistema de “recompensas/punições”, oferecendo feedback ao algoritmo para aprender com suas próprias experiências por tentativa e erro.
+
+*Dependendo do problema em questão, o modelo de aprendizado não supervisionado pode organizar os dados de diferentes maneiras:*
+
+- Clustering : Sem ser um ornitólogo especialista, é possível olhar para uma coleção de fotos de pássaros e separá-las aproximadamente por espécie, confiando em dicas como cor da pena, tamanho ou formato do bico. É assim que a aplicação mais comum para aprendizado não supervisionado, clustering, funciona: o modelo de aprendizado profundo procura dados de treinamento que sejam semelhantes entre si e os agrupa.
+
+- Detecção de anomalias : Os bancos detectam transações fraudulentas procurando padrões incomuns no comportamento de compra do cliente. Por exemplo, se o mesmo cartão de crédito for usado na Califórnia e na Dinamarca no mesmo dia, isso é motivo para suspeita. Da mesma forma, o aprendizado não supervisionado pode ser usado para sinalizar outliers em um conjunto de dados.
+
+- Associação : Encha um carrinho de compras on-line com fraldas, compota de maçã e copos com canudinho e o site pode recomendar que você adicione um babador e um monitor de bebê ao seu pedido. Este é um exemplo de associação, onde certos recursos de uma amostra de dados se correlacionam com outros recursos. Ao observar alguns atributos-chave de um ponto de dados, um modelo de aprendizado não supervisionado pode prever os outros atributos aos quais eles são comumente associados.
+
+- Autoencoders : Autoencoders pegam dados de entrada, compactam em um código e tentam recriar os dados de entrada a partir desse código resumido. Embora seja um truque de aprendizado profundo, há menos casos reais em que um autocodificador simples é útil. Mas adicione uma camada de complexidade e as possibilidades se multiplicam: ao usar versões com ruído e limpas de uma imagem durante o treinamento, os autoencoders podem remover ruído de dados visuais como imagens, vídeos ou exames médicos para melhorar a qualidade da imagem.
