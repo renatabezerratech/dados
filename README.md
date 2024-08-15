@@ -273,5 +273,7 @@ Tipos de aprendizado de máquina segundo a nvidia.com:
 
 
 
-📌 IBM [ML e IA](https://www.ibm.com/topics/machine-learning
-) 
+📌 IBM [ML e IA](https://www.ibm.com/topics/machine-learning) 
+
+
+📌 KDnuggets [Conceitos importantes](https://www.kdnuggets.com/2016/05/machine-learning-key-terms-explained.html) 
