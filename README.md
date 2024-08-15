@@ -268,3 +268,5 @@ Tipos de aprendizado de máquina segundo a nvidia.com:
 - Associação : Encha um carrinho de compras on-line com fraldas, compota de maçã e copos com canudinho e o site pode recomendar que você adicione um babador e um monitor de bebê ao seu pedido. Este é um exemplo de associação, onde certos recursos de uma amostra de dados se correlacionam com outros recursos. Ao observar alguns atributos-chave de um ponto de dados, um modelo de aprendizado não supervisionado pode prever os outros atributos aos quais eles são comumente associados.
 
 - Autoencoders : Autoencoders pegam dados de entrada, compactam em um código e tentam recriar os dados de entrada a partir desse código resumido. Embora seja um truque de aprendizado profundo, há menos casos reais em que um autocodificador simples é útil. Mas adicione uma camada de complexidade e as possibilidades se multiplicam: ao usar versões com ruído e limpas de uma imagem durante o treinamento, os autoencoders podem remover ruído de dados visuais como imagens, vídeos ou exames médicos para melhorar a qualidade da imagem.
+
+<img src='imagens/redes neurais.png' width = 70% >
