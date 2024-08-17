@@ -1,3 +1,5 @@
-# BD transacional
-# dados: inclusão, leitura, alteração, exclusão
+
+# OLTP
+# BD transacional - operação
+# Dados: inclusão, leitura, alteração, exclusão
 
