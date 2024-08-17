@@ -2,12 +2,21 @@
 
 *Acumular grandes volumes de dados não é equivalente a reunir conhecimento valioso. Somente quando os dados são classificados e avaliados que aprendemos algo com eles.*
 
-**Em breve:**
+- Data manipulation: *processo de ajuste de dados para torná-los organizados e mais fáceis de ler.*
+
+- BI: *procedimentos para se chegar a inteligência de negócios.*
+
+- Readme: *resumos sobre Data Science e IA.*
+
+
+
+## **Em breve:**
 
 <a href="https://www.youtube.com/watch?v=8GSurpLUSoM" target="_blank">
 <img src="imagens/dados.png" width="40%">
 </a>
 
+## Conceito de dados
 
 📌 Dados estruturados são informações que podem ser dispostas em linhas e colunas. Se você puder organizar informações dentro de dados em grupos, com base em características específicas, então esses grupos são dados estruturados.
 
